@@ -1,7 +1,8 @@
 name: 'Download Release Assets'
 description: 'Download GitHub release assets by version with support for regex in asset name search'
-icon: download
-color: blue
+branding:
+  icon: download
+  color: blue
 
 inputs:
   repo:
